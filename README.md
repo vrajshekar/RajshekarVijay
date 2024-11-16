@@ -1,5 +1,5 @@
 # Rajshekar Vijay
-👋 **Greetings, Traveler! By the light of day, I am a Cybersecurity Sentinel; by the glow of the moon, a Code Artisan** 🌌🛡️💻✨ (Driven by curiosity, inspired by creation!)
+**🌟 Greetings, Defender of the Digital Realms! By day, I am a Cybersecurity Strategist, mastering SIEM spells and detection rituals 🛡️📊; by night, a Threat Alchemist, conjuring automation with Python and PowerShell** 🧙‍♂️⚡📜. (Fueled by innovation, thriving on resilience!) 🌌🚀
 
 ---
 
