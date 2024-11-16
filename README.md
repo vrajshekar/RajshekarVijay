@@ -26,18 +26,19 @@ By day, a **Detection Artisan**, crafting precise Sigma and YARA rules to reveal
 🌐 **Tech Stack & Tools:**  
 
 🔐 **Cybersecurity:**  
-- **SIEM Platforms**: Splunk | QRadar | ArcSight | Netsurion  
+- **SIEM Platforms**: Splunk | QRadar | ArcSight | Elasticsearch
 - **Threat Detection**: Sigma | YARA | MITRE ATT&CK | Log Correlation  
-- **Automation**: XSOAR | Demisto | FortiSOAR | Elasticsearch  
+- **Automation**: XSOAR | Demisto | FortiSOAR | ServciceNow SIR  
 - **Threat Simulation**: Caldera | Atomic Red Team | SafeBreach  
 
 💻 **Development:**  
 - **Languages**: Python | PowerShell | JavaScript  
-- **Data Visualization**: Kibana | Grafana  
+- **Data Visualization**: Kibana   
 - **Version Control**: Git | SVN  
 - **Orchestration**: CI/CD | Docker  
 
 📊 **GitHub Stats**  
 ✨ Witness the evolution of detection strategies, automation scripts, and tools shaping the future of cybersecurity.  
+
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajshekar&layout=compact&theme=chartreuse-dark) |![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrajshekar&show_icons=true&theme=chartreuse-dark) |
 | --- | --- |
