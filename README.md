@@ -1,41 +1,43 @@
 # Rajshekar Vijay
-**🌟 Greetings, Defender of the Digital Realms! By day, I am a Cybersecurity Strategist, mastering SIEM spells and detection rituals 🛡️📊; by night, a Threat Alchemist, conjuring automation with Python and PowerShell** 🧙‍♂️⚡📜. (Fueled by innovation, thriving on resilience!) 🌌🚀
+
+**🌟 Salutations, Sentinel of the Cyber Frontier!**  
+By day, a **Detection Artisan**, crafting precise Sigma and YARA rules to reveal the unseen 🛡️🔍; by night, a **Code Alchemist**, weaving Python and PowerShell into automated marvels 🧙‍♂️⚡📜. (Guided by passion, fueled by innovation!) 🌌🚀  
 
 🔒 **Cybersecurity Passions:**  
 
-🛡️ **Detection Engineering** – Designing custom defenses to outsmart adversaries.  
-🔍 **Threat Simulation & Intelligence** – Transforming data into actionable insights and simulating real-world attacks.  
-🤖 **Security Automation** – Streamlining incident response with SOAR and cutting-edge orchestration tools.  
+🛡️ **Detection Engineering** – Crafting tailored Sigma and YARA rules to outpace adversaries.  
+🔍 **Threat Intelligence & Simulation** – Turning complex data into actionable strategies and emulating real-world attacks.  
+🤖 **Security Automation** – Harnessing the power of SOAR platforms to automate and accelerate incident response.  
 
 💻 **Development Passions:**  
 
-💡 **Building Cybersecurity Tools** – Turning innovative ideas into robust solutions that enhance security workflows.  
-🐍 **Python & PowerShell Crafting** – Creating automation scripts that simplify complexity and boost efficiency.  
+💡 **Cybersecurity Tools Development** – Innovating solutions to streamline threat hunting and detection workflows.  
+🐍 **Python & PowerShell Magic** – Simplifying complexity with powerful scripts and orchestrations.  
 
 ✨ **What I Do:**  
 
-🔧 Fuse **cybersecurity expertise** with **development ingenuity** to fortify systems, enhance defenses, and inspire innovation.  
-🛠️ Architect custom solutions tailored for detection, threat hunting, and automated response.  
+🔧 Merge **cybersecurity mastery** with **development brilliance** to build resilient systems and advance detection capabilities.  
+🛠️ Architect strategies that empower threat hunters and defenders with efficient, automated, and scalable solutions.  
 
 📫 **Let’s Connect!**  
 
-🌟 Explore my repositories to discover tools, scripts, and projects built with security and efficiency in mind. Whether you're interested in collaborating, learning, or geeking out over cybersecurity and code, feel free to reach out!  
+🌟 Explore my repositories to find Sigma rules, YARA signatures, and custom tools that bridge the gap between security and code. Interested in collaborating or sharing insights? Let’s build something extraordinary together!  
 
 🌐 **Tech Stack & Tools:**  
 
 🔐 **Cybersecurity:**  
-- **SIEM Platforms**: Splunk | QRadar | Securonix | Netsurion  
-- **Threat Detection**: MITRE ATT&CK | Sigma | UEBA | Log Correlation  
-- **Automation**: XSOAR | SOAR | Incident Response  
-- **Red Teaming**: Atomic Red Team | Caldera  
+- **SIEM Platforms**: Splunk | QRadar | ArcSight | Netsurion  
+- **Threat Detection**: Sigma | YARA | MITRE ATT&CK | Log Correlation  
+- **Automation**: XSOAR | Demisto | FortiSOAR | Elasticsearch  
+- **Threat Simulation**: Caldera | Atomic Red Team | SafeBreach  
 
 💻 **Development:**  
 - **Languages**: Python | PowerShell | JavaScript  
-- **Data & Visualization**: Elasticsearch | Kibana | Grafana  
-- **Orchestration**: Git | CI/CD | Docker | Kubernetes  
+- **Data Visualization**: Kibana | Grafana  
+- **Version Control**: Git | SVN  
+- **Orchestration**: CI/CD | Docker  
 
 📊 **GitHub Stats**  
-✨ Let the numbers tell the story of my journey through lines of code and security innovations.  
-
+✨ Witness the evolution of detection strategies, automation scripts, and tools shaping the future of cybersecurity.  
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajshekar&layout=compact&theme=chartreuse-dark) |![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrajshekar&show_icons=true&theme=chartreuse-dark) |
 | --- | --- |
